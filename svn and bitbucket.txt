@@ -1,0 +1,72 @@
+
+
+how to install svn :
+
+
+https://www.howtoforge.com/tutorial/how-to-setup-a-svn-server-on-centos-6/
+https://www.howtoforge.com/tutorial/how-to-setup-a-svn-server-on-centos-6/
+
+
+svnpath: /data/svn/repo1
+
+AuthzSVNAccessFile /data/svn/repo1/conf/authz
+AuthUserFile /data/svn/repo1/conf/passwd
+
+users:
+
+SALLU   SALLU123
+
+mamoon  mamoon123
+
+mustafa   mustafa123
+
+svn commands:
+
+http://xpt.sourceforge.net/techdocs/vc/svn/svn02-SubversionQuickRefs/ar01s03.html
+
+
+hwo to install docker om rhel:
+
+https://docs.docker.com/engine/installation/linux/rhel/#prerequisites
+
+
+bitbucket AND GIT
+
+https://confluence.atlassian.com/bitbucketserver/getting-started-with-git-and-bitbucket-server-776640936.html
+
+
+https://confluence.atlassian.com/bitbucketserver/supported-platforms-776640981.html
+
+
+
+how to use bitbucket as a docker container:
+
+https://bitbucket.org/atlassian/docker-atlassian-bitbucket-server
+
+*********
+RUN BITBUCKET SERVER IN A DOCKER CONTAINER:
+
+
+https://hub.docker.com/r/atlassian/bitbucket-server/
+
+
+Connecting Bitbucket Server to PostgreSQL
+https://confluence.atlassian.com/bitbucketserver/connecting-bitbucket-server-to-postgresql-776640389.html
+
+install docker on red  hat linux 7
+
+https://docs.docker.com/engine/installation/linux/rhel/
+
+
+
+
+
+
+https://answers.atlassian.com/questions/38754797/official-atlassian-support-for-jira-on-docker   donot support 
+
+
+
+docker image for jira using postgresql:
+
+https://hub.docker.com/r/ivantichy/jira/
+

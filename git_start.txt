@@ -1,0 +1,35 @@
+www.github.com
+
+
+useraccount:
+
+user: salmanyounus
+password: salmanyounus123
+email: salman.younus@royalcyber.com
+
+******************************************
+
+
+https://git-scm.com/download/linux    --- to download git tarr ball if needed for your linux machine
+
+
+to install git client on your linux vm:
+
+yum install git
+
+
+then 
+
+http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
+
+
+git config --global user.name "salmanyounus"  ---   git config --global user.name "Your Name Here"
+
+git config --global user.email "salman.younus@royalcyber.com" ----  git config --global user.email "your_email@youremail.com"
+
+
+Next steps: Authenticating with GitHub from Git:  https://help.github.com/articles/set-up-git/  ---https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
+
+
+Then go to github.com website  and create a repository
